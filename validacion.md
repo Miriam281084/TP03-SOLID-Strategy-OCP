@@ -1,6 +1,6 @@
 # Nota de validación
 
--   **Nombre del compañero/a:** \[Aquí va el nombre\]\
+-   **Nombre del compañero/a:** VICTORIA MENDOZA
 -   **Comentario de validación:**\
     "Revisé ambos programas. El primero aplica correctamente el **Patrón
     Strategy** ya que encapsula algoritmos de descuento y permite
